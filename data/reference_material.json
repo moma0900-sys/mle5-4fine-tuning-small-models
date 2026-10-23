@@ -1,0 +1,22 @@
+[
+  {
+    "id": "billing-refunds",
+    "title": "Refund policy",
+    "text": "Refunds are available within 30 days of purchase when the customer provides the order ID. Refunds are returned to the original payment method. Digital workshop tickets are refundable until 24 hours before the workshop starts."
+  },
+  {
+    "id": "account-security",
+    "title": "Account security policy",
+    "text": "Support agents must never ask for passwords, one-time passcodes, or full card numbers. For account recovery, ask for the account email and open a secure verification link. If a customer reports a suspicious login, recommend resetting the password and enabling multi-factor authentication."
+  },
+  {
+    "id": "shipping",
+    "title": "Shipping policy",
+    "text": "Standard shipping usually takes three to five business days. Express shipping usually takes one to two business days. Customers can change a shipping address only before the order is packed."
+  },
+  {
+    "id": "tone-style",
+    "title": "Support tone guide",
+    "text": "Answers should be concise, friendly, and action-oriented. Start with the direct answer, then give the next step. Do not invent policy exceptions. If the policy does not answer the question, say what information is missing."
+  }
+]

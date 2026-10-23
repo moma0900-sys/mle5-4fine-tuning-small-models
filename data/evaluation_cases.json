@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eval-refund-ticket",
+    "instruction": "A customer bought a digital workshop ticket and asks for a refund 12 hours before it starts. What should support say?",
+    "reference_ids": ["billing-refunds", "tone-style"],
+    "ideal_answer": "This request is outside the refund window. Digital workshop tickets are refundable until 24 hours before the workshop starts. Is there another way I can help?"
+  },
+  {
+    "id": "eval-password",
+    "instruction": "A customer cannot sign in and offers to send their password to support for checking. How should support respond?",
+    "reference_ids": ["account-security", "tone-style"],
+    "ideal_answer": "Please do not send me your password. Share the account email so I can send you a secure recovery link instead."
+  },
+  {
+    "id": "eval-shipping",
+    "instruction": "A customer wants to change the shipping address after the warehouse packed the order. What is the correct response?",
+    "reference_ids": ["shipping", "tone-style"],
+    "ideal_answer": "I cannot change the shipping address after the order has been packed. Address changes are only possible before packing. Please let me know if you need help with another question."
+  },
+  {
+    "id": "eval-suspicious-login",
+    "instruction": "A customer has already changed their password after an unfamiliar sign-in alert but has not enabled extra login protection. What should support recommend next?",
+    "reference_ids": ["account-security", "tone-style"],
+    "ideal_answer": "You have already reset your password. Please enable multi-factor authentication next. Never share your password or one-time passcodes with anyone claiming to be support."
+  }
+]
